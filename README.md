@@ -1,0 +1,6 @@
+Name: Saurabh Kumar Singh
+Company: CODTECH IT SOLUTIONS
+ID: CT6WDS162
+Domain:DATA SCIENCE
+Duration: 5Th JUNE 2024 to 17Th JULY 2024
+Mentor: G.SRAVANI
